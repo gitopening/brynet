@@ -20,7 +20,7 @@ Header Only Cross platform high performance TCP network library using C++ 11.
 * IPv6 support
 
 ## Documentation
-- [简体中文](https://github.com/IronsDu/brynet/blob/master/docs/main.zh-cn.md)
+- [简体中文](https://github.com/gitopening/brynet/blob/master/docs/main.zh-cn.md)
 
 ## Compatibility
 * Visual C++ 2013+ (32/64-bit)
